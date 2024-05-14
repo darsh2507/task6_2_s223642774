@@ -19,7 +19,7 @@ public class WeatherAndMathUtilsTest {
 	
 	@Test
 	public void testFalseNumberIsEven() {
-		 // Declare an integer variable number and initialize it with an even value
+	 // Declare an integer variable number and initialize it with an even value
         int number = 4;
         // Call the isEven method of WeatherAndMathUtils class with the number
         boolean isEven = WeatherAndMathUtils.isEven(number);
@@ -42,7 +42,7 @@ public class WeatherAndMathUtilsTest {
 	@Test
 	public void testprimeNumber()
 	{
-		// Declare an integer variable number and initialize it with a prime value
+	// Declare an integer variable number and initialize it with a prime value
         int number = 7;
         // Call the isPrime method of WeatherAndMathUtils class with the number
         boolean isPrime = WeatherAndMathUtils.isPrime(number);
@@ -52,7 +52,7 @@ public class WeatherAndMathUtilsTest {
 	@Test
 	public void testNonprimeNumber()
 	{
-		// Declare an integer variable number and initialize it with a non-prime value
+	// Declare an integer variable number and initialize it with a non-prime value
         int number = 9;
         // Call the isPrime method of WeatherAndMathUtils class with the number
         boolean isPrime = WeatherAndMathUtils.isPrime(number);
