@@ -30,7 +30,7 @@ public class WeatherAndMathUtilsTest {
 	@Test
 	public void testOddNumber()
 	{
-		// Declare an integer variable number and initialize it with an odd value
+	// Declare an integer variable number and initialize it with an odd value
         int number = 7;
         // Call the isEven method of WeatherAndMathUtils class with the number
         boolean isEven = WeatherAndMathUtils.isEven(number);
